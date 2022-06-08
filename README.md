@@ -17,6 +17,6 @@ Integrei o react e o ".module.scss" no projeto desenvolvido no bootcamp para apr
 
 ### Agradecimentos
 
- Gostaria de agradecer a [Gabriela Pinheiro](https://github.com/SpruceGabriela) e toda equipe da Dio que me ajudaram no desenvolvimento desse projeto.
+ Gostaria de agradecer a [Gabriela Pinheiro](https://github.com/SpruceGabriela) e toda equipe da [Dio](https://web.dio.me) que me ajudaram no desenvolvimento desse projeto.
  
 
