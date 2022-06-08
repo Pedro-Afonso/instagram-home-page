@@ -15,3 +15,8 @@ Integrei o react e o ".module.scss" no projeto desenvolvido no bootcamp para apr
 - [React](https://reactjs.org/) - Biblioteca javascript
 - [Syntactically Awesome Style Sheets](https://sass-lang.com) - Para os estilos com scss
 
+### Agradecimentos
+
+ Gostaria de agradecer a [Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio) e toda equipe da Dio que me ajudaram no desenvolvimento desse projeto.
+ 
+
