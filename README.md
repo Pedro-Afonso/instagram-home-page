@@ -1,7 +1,6 @@
 # instagram-home-page
 
-Esse é o projeto finalizado para o bootcamp spread na plataform dio.
-Integrei o react e o ".module.scss" no projeto desenvolvido no bootcamp para aproveitar melhor o curso, apesar do acréscimo de complexidade no código, facilitará o desenvolvimento em uma continuidade posterior.
+Um clone da página inicial do instagram para o bootcamp spread na plataform dio. Foi utilizado o react e o module scss no projeto desenvolvido no bootcamp para aproveitar melhor o curso, apesar do acréscimo de complexidade no código, facilitará o desenvolvimento em uma continuidade posterior.
 
 ## Visão geral
 ### Captura de tela
