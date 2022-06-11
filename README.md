@@ -9,8 +9,8 @@ Integrei o react e o ".module.scss" no projeto desenvolvido no bootcamp para apr
 
 ### Construído com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Linguagem de marcação semântica HTML5
+- SCSS propriedades customizadas
 - Flexbox
 - [React](https://reactjs.org/) - Biblioteca javascript
 - [Syntactically Awesome Style Sheets](https://sass-lang.com) - Para os estilos com scss
